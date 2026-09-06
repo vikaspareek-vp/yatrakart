@@ -15,7 +15,11 @@
   <strong>Payments:</strong> Stripe &nbsp; | &nbsp;
   <strong>Images:</strong> Cloudinary
 </p>
-
+<p>
+ <a href="https://yatrakart.vercel.app">🌐 Live Customer Website</a>
+&nbsp; | &nbsp;
+<a href="https://yatrakart-admin.vercel.app">🔐 Admin Dashboard</a>
+</p>
 <hr>
 
 <h2>📌 About the Project</h2>
