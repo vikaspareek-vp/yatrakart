@@ -358,7 +358,7 @@ YatraKart/
 
 <pre>
 <code>
-git clone YOUR_GITHUB_REPOSITORY_URL
+git clone https://github.com/vikaspareek-vp/yatrakart.git
 cd yatrakart
 </code>
 </pre>
@@ -490,12 +490,10 @@ npm run dev
 </pre>
 
 <hr>
-
 <h2>📸 Screenshots</h2>
 
 <p>
-Screenshots of the YatraKart customer website and admin dashboard can be
-added here.
+  Screenshots of the YatraKart customer website and admin dashboard.
 </p>
 
 <table>
@@ -509,11 +507,9 @@ added here.
     <td>
       <img src="./screenshots/home.png" alt="YatraKart Home" width="300">
     </td>
-
     <td>
       <img src="./screenshots/collection.png" alt="YatraKart Collection" width="300">
     </td>
-
     <td>
       <img src="./screenshots/product.png" alt="YatraKart Product" width="300">
     </td>
@@ -533,17 +529,14 @@ added here.
     <td>
       <img src="./screenshots/cart.png" alt="YatraKart Cart" width="300">
     </td>
-
     <td>
       <img src="./screenshots/orders.png" alt="YatraKart Orders" width="300">
     </td>
-
     <td>
       <img src="./screenshots/admin.png" alt="YatraKart Admin Panel" width="300">
     </td>
   </tr>
 </table>
-
 <hr>
 
 <h2>🔒 Security Practices</h2>
