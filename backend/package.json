@@ -1,7 +1,7 @@
 {
   "name": "backend",
   "version": "1.0.0",
-  "description": "Ecommerce backend",
+  "description": "Backend of YartaKart Ecommerce ",
   "main": "server.js",
   "type": "module",
   "scripts": {
@@ -9,7 +9,7 @@
     "start": "node server.js",
     "server" : "nodemon server.js"
   },
-  "author": "Adarsh",
+  "author": "Vikas",
   "license": "ISC",
   "dependencies": {
     "bcrypt": "^5.1.1",
