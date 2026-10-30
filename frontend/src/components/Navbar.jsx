@@ -109,7 +109,7 @@ const Navbar = () => {
                 {/* --------navbar sidebar for mobile screen----- */}
 
                 <div
-                    className={`absolute top-0 right-0 bottom-0 overflow-hidden bg-white transition-all ${openModal ? "w-full" : "w-0"
+                    className={`absolute top-full left-0 right-0 overflow-hidden bg-white transition-all ${openModal ? "w-full" : "w-0"
                         }`}
                 >
                     <div className='flex flex-col text-gray-600'>
@@ -134,7 +134,7 @@ const Navbar = () => {
                         </NavLink>
                         <NavLink
                             onClick={() => setOpenModal(false)}
-                            to='/collections'
+                            to='/collection'
                             className='border py-2 pl-6'
                         >
                             COLLECTIONS
